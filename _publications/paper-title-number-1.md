@@ -1,7 +1,7 @@
 ---
 title: "Deepfuse: Automatic Detection and Classification of Low Surface Brightness Galaxies with Convolutional Neural Networks"
 collection: publications
-permalink: /publication/paper-title-number-1.md
+permalink: /publication/paper-title-number-1
 excerpt: 'Poster detailing Deepfuse, a pipeline for the detection of Low Surface Brightness Galaxies with an image‑based DBSCAN algorithm and convolutional neural
 networks applied to large astronomical images fetched from an online database.'
 date: 2021-01-01
