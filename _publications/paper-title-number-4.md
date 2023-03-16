@@ -1,7 +1,7 @@
 ---
 title: "Similarity Search of Low Surface Brightness Galaxies in Large Astronomical Catalogs"
 collection: publications
-permalink: /publication/paper-title-number-4.md
+permalink: /publication/paper-title-number-4
 excerpt: 'Paper detailing lsh_astro, a tool that uses Locality-Sensitive Hashing with PySpark to perform an approximate similarity search of Low Surface Brightness Galaxies (LSBGs) in large astronomical catalogs. It allows for a quick and computationally efficient way for astronomers to find new LSBG candidates in large astronomical catalogs needing only one labeled LSBG.'
 date: 2022-01-01
 venue: 'NeurIPS: LatinX in AI Research Workshop'
