@@ -1,7 +1,7 @@
 ---
 title: "(Undergraduate thesis, in Portuguese) Busca de galáxias de baixo brilho superficial por similaridade em grandes catálogos astronômicos"
 collection: publications
-permalink: /publication/paper-title-number-3.md
+permalink: /publication/paper-title-number-3
 excerpt: 'Undergraduate thesis detailing the creation of lsh_astro, a tool that uses Locality-Sensitive Hashing with PySpark to perform an approximate similarity search of Low Surface Brightness Galaxies (LSBGs) in large astronomical catalogs. It allows for a quick and computationally efficient way for astronomers to find new LSBG candidates in large astronomical catalogs needing only one labeled LSBGs.'
 date: 2022-01-01
 venue: 'Lume UFRGS'
