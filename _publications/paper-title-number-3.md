@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/paper-title-number-3.md
 excerpt: 'Undergraduate thesis detailing the creation of lsh_astro, a tool that uses Locality-Sensitive Hashing with PySpark to perform an approximate similarity search of Low Surface Brightness Galaxies (LSBGs) in large astronomical catalogs. It allows for a quick and computationally efficient way for astronomers to find new LSBG candidates in large astronomical catalogs
 needing only one labeled LSBGs'
-date: 2021-01-01
+date: 2022-01-01
 venue: 'Lume UFRGS'
 paperurl: 'https://lume.ufrgs.br/handle/10183/255236'
 citation: ' Marcos Tidball, Cristina Furlanetto. Lume UFRGS, 2022.'
