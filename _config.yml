@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Marcos Tidball"
-  avatar           : "profile.png"
+  avatar           : "pfp.jpg"
   bio              : "I'm a data scientist interested in AI research, especially Self-Supervised Learning!"
   location         : "Brazil"
   employer         :
