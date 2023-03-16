@@ -1,7 +1,7 @@
 ---
 title: "Domain Adaptation for Simulation-Based Dark Matter Searches with Strong Gravitational Lensing"
 collection: publications
-permalink: /publication/paper-title-number-5.md
+permalink: /publication/paper-title-number-5
 excerpt: 'Paper detailing the continuation of my Google Summer of Code 2021 project now using more complex data sources and comparing Unsupervised Domain Adaptation between an EfficientNet and an Equivariant Neural Network architecture.'
 date: 2022-01-01
 venue: 'NeurIPS: Machine Learning and the Physical Sciences Research Workshop'
