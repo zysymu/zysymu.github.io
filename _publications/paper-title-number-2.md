@@ -3,7 +3,7 @@ title: "Domain Adaptation for Simulation-Based Dark Matter Searches Using Strong
 collection: publications
 permalink: /publication/paper-title-number-2.md
 excerpt: 'Paper detailing my project at Google Sumemr of Code 2021 about an initial development of Unsupervised Domain Adaptation applied to gravitational lenses as well as an exploration of Equivariant Neural Networks for astronomical image classification.'
-date: 2021
+date: 2021-01-01
 venue: 'arXiv preprint'
 paperurl: 'arxiv.org/abs/2112.12121'
 citation: 'Stephon Alexander, Sergei Gleyzer, Pranath Reddy, Marcos Tidball, Michael W. Toomey. arXiv preprint, 2021'
