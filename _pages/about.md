@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Marcos (AKA zysymu)! I'm currently working as a Data Scientist at BTG Pactual where I'm currently working on deep recommender systems for the bank's products. Previously, I have developed monitoring systems for models and computational resources, OCR systems for automatic text validation and classification of documents, a liveness detection system based on facial landmarks and even some financial time series exploration to find useful correlations.
+Hi, I'm Marcos (AKA zysymu)! I'm currently a Data Scientist at BTG Pactual where I'm working on deep recommender systems for the bank's products. Previously, I have developed monitoring systems for models and computational resources, OCR systems for automatic text validation and classification of documents, a liveness detection system based on facial landmarks and even some financial time series exploration to find useful correlations.
 
 However my main interest lies in research, especially in the possible applications of Deep Learning and AI to other fields! Having a Physics background, I mainly applied AI to astronomy, having published 2 research papers on the topic at different NeurIPS workshops in 2022. One of them is related to the usage of Unsupervised Domain Adaptation to adapt models trained on one astronomical data source to another with the intention of identifying gravitational lenses. And the other paper revolves around the creation of an approximate nearest neighbors system (using LSH) to find similar astronomical objects in a large catalog.
 
